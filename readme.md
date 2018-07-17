@@ -13,7 +13,7 @@ Featured:
 
 ### Useful Links
 
-| Plugin | README |
+| Website | README |
 | ------ | ------ |
 | Lodash | https://lodash.com/docs |
 | John Resig Blog | https://johnresig.com/blog/learning-from-twitter/ |
